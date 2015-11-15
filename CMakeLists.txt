@@ -99,6 +99,7 @@ catkin_package(
 #  DEPENDS system_lib
 )
 
+catkin_python_setup()
 ###########
 ## Build ##
 ###########
@@ -109,6 +110,7 @@ catkin_package(
 include_directories(
   ${catkin_INCLUDE_DIRS}
 )
+
 
 ## Declare a cpp library
 # add_library(xm_strategy
