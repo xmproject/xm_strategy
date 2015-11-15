@@ -1,6 +1,6 @@
 # xm_strategy
 
-Create Date: 2015.6.17
+Create Date: 2015.11.1
 
 Authors: Luke Liao, X_Y耀
 
